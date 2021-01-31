@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{9EE048EE-0CB8-E268-7739-0D8D394DA252}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/CameraPointer.cs">
+    <Files>
+      <File FileName="Assets/AltRealities/Scripts/VrEditorEmulator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Samples/Google Cardboard XR Plugin for Unity/1.4.1/Hello Cardboard/Scripts/CameraPointer.cs" Line="43" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab_cardboard" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AltRealities" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="VrEditorEmulator.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Samples" expanded="True">
+                <Node name="Google Cardboard XR Plugin for Unity" expanded="True">
+                  <Node name="1.4.1" expanded="True">
+                    <Node name="Hello Cardboard" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="632567f6-d128-4ee5-b9b1-e4fa6b51f0cd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
